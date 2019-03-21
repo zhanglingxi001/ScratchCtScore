@@ -1,0 +1,9 @@
+*.pyc
+
+\.idea
+
+*.json
+
+*.sb2
+*.pyc
+gen/AntlrLexer.pyc
